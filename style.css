@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    background-attachment: fixed;
+}
+.col-md-6{
+    margin-top: 150px !important;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    padding: 10px 17px;
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+}
+.table, tbody, tr, td{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+}
+input[type=button]{
+    width: 100%;
+    background-color: rgb(29, 29, 160);
+    color: white;
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 6px;
+
+}
+input[type=text]{
+    width: 100%;
+
+    
+}
+h1{
+    font-weight: bolder;
+    margin-top: 15px;
+}
